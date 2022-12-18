@@ -5,7 +5,7 @@
 ![dexv music0](https://user-images.githubusercontent.com/89728480/208309635-ac4d0443-5804-4840-93fe-ca7625776c23.png)
 
 Welcome to [Dexv Music0](https://discord.gg/dexvirus)'s repo!
-My goal is to have you listen to tons and tons of RTTTL files (Music files).
+My goal is to have you listen to tons and tons of RTTTL files or music files (Utested!).
 
 ## Links of interest : FLIPPER GRAPHICS
     
